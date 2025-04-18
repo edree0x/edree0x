@@ -65,7 +65,7 @@
   <a href="https://paypal.me/ahmedaedrys?country.x=EG&locale.x=ar_EG" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71DMQNY)
+
 </div>
 
 ###
