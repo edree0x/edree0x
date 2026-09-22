@@ -11525,7 +11525,7 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
+        "x": 280,
         "y": 106
       },
       "size": {
@@ -11554,8 +11554,8 @@
       "widgetId": "languages",
       "name": "Languages Widget",
       "position": {
-        "x": 0,
-        "y": 494
+        "x": 8,
+        "y": 422
       },
       "size": {
         "width": 536,
@@ -11572,7 +11572,7 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 552,
-        "y": 494
+        "y": 422
       },
       "size": {
         "width": 240,
@@ -11645,7 +11645,7 @@
       "name": "Codeweb-social-badge Widget",
       "position": {
         "x": 0,
-        "y": 418
+        "y": 598
       },
       "size": {
         "width": 800,
@@ -11703,7 +11703,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790114879258_pvvln",
-    "updatedAt": "2026-09-22T22:08:01.483Z"
+    "revision": "rev_1790114998165_hpkut",
+    "updatedAt": "2026-09-22T22:10:00.146Z"
   }
 }
