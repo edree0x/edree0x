@@ -1,28 +1,3 @@
-<img align="left" height="200" src="https://pm1.aminoapps.com/7696/9aafa9a90eb1d0c68a530506282f83dc75dbb9b4r1-736-736v2_hq.jpg"  />
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h3 align="left">My name is Ahmed Mahmoud and I Aspire to be an Official Software Engineer from Egypt</h3>
-
-###
-
-<br clear="both">
-
-<h2 align="left">About me</h2>
-
-###
-
-<h3 align="left">✨ Creating bugs for <br>Since 2021<br><br>📚 I'm currently learning <br>AWS, React & node.js<br><br>🎯 Goals:<br>Full stack developer, Podcast Note-taking App, DIY Quantum Computer Manufacturing & Creating a personalized Brand<br><br>🎲 Fun fact: <br>Reading is what I'm most interested in</h3>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
