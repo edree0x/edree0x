@@ -11684,7 +11684,7 @@
       "config": {
         "theme": "dark"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 11
     }
@@ -11703,7 +11703,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790114714155_vhjgf",
-    "updatedAt": "2026-09-22T22:05:16.814Z"
+    "revision": "rev_1790114879258_pvvln",
+    "updatedAt": "2026-09-22T22:08:01.483Z"
   }
 }
